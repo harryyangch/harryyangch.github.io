@@ -1,6 +1,6 @@
 # harryyangch.github.io
 
-貴安
+貴安 自分用 慎入
 
 
 ![預覽圖](https://d35c6yop31qdi0.cloudfront.net/images/ogp.png)
