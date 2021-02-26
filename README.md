@@ -7,6 +7,7 @@
 
 [連結](https://www.youtube.com/watch?v=QVAR6aE8oVc)
 
+
 ```
 #include <stdio.h>
 int main()
